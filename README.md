@@ -1,2 +1,3 @@
-# Practicas-Auto
- Practicas de GIt con Automatización
+# Practicas Auto
+
+Hola 
